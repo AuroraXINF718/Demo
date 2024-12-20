@@ -1,2 +1,2 @@
 # Demo
-It's a Simple Demo
+It's just a demo.
